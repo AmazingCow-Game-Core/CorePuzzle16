@@ -1,0 +1,25 @@
+/**
+@mainpage The CorePuzzle16 documentation.
+
+__CorePuzzle16__  Game Core for Puzzle16 Game.
+
+You can use it as a "lib" for making Puzzle16 Game in C++ concentrating
+your efforts in making a cool game interface and letting the logic of the
+game alone.
+
+
+You may find interesting take a look in:
+
+- @ref GameCore class documentation - The fun is there.
+\n\n
+
+- [Project Page](http://opensource.amazingcow.com/gamecore/corepuzzle16/). \n
+- [Project GitHub](https://www.github.com/AmazingCow-Game-Core/CorePuzzle16/). \n
+- [Game Core Website](http://opensource.amazingcow.com/gamecore/). \n
+- [AmazingCow Open Source Projects](http://opensource.amazingcow.com).
+
+
+You are __very welcomed__ to __share__ and __hack__ it.
+
+Thank you and we hope that you enjoy __CorePuzzle16__.
+*/
