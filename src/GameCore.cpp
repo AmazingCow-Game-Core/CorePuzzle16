@@ -43,8 +43,6 @@
 //std
 #include <algorithm>
 #include <sstream>
-#include <iostream>
-using namespace std;
 
 //Usings
 USING_NS_COREPUZZLE16;

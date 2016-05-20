@@ -53,8 +53,8 @@
 //The core version number.
 #define COW_COREPUZZLE16_VERSION_MAJOR    "0"
 #define COW_COREPUZZLE16_VERSION_MINOR    "1"
-#define COW_COREPUZZLE16_VERSION_REVISION "0"
+#define COW_COREPUZZLE16_VERSION_REVISION "1"
 
-#define COW_COREPUZZLE16_VERSION "0.1.0"
+#define COW_COREPUZZLE16_VERSION "0.1.1"
 
 #endif // defined(__CorePuzzle16_include_CorePuzzle16_Utils_h__) //

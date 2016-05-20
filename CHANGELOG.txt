@@ -1,6 +1,14 @@
 --------------------------------------------------------------------------------
 | Version 0.1.x                                                                |
 --------------------------------------------------------------------------------
+v0.1.1 - [May 20, 2016]
+-- General --
+    - Remove the development included (iostream) and using namespace (std);
+
+-- Other --
+    - Update the version numbers across the files.
+
+--------------------------------------------------------------------------------
 v0.1.0 - [May 18, 2016]
 -- General --
     Finish the basic implemention.
