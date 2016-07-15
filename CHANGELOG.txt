@@ -1,6 +1,13 @@
 --------------------------------------------------------------------------------
 | Version 0.1.x                                                                |
 --------------------------------------------------------------------------------
+v0.1.2 - [Jul 15, 2016]
+-- General --
+    - Update the mainpage.dox and README.md to
+      use the correct amazing cow links.
+    - Start using the update_version script.
+
+--------------------------------------------------------------------------------
 v0.1.1 - [May 20, 2016]
 -- General --
     - Remove the development included (iostream) and using namespace (std);
